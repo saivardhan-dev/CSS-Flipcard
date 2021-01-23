@@ -44,6 +44,7 @@
 background: rgb(45, 161, 103);
 color: white;
 transform: rotateY(180deg);
+text-align: center;
 }
 
 .back button{
